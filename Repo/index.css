@@ -1,5 +1,21 @@
-body{
+body {
     background-color: #303841;
+}
+.image-holder{
+    background-color: white;
+}
+.container {
+    background-color: gray;
+    padding: 10;
+}
+.image {
+    padding: auto;
+    align-items: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 10%;
 }
 
 .hello-world h1{
