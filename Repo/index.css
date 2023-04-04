@@ -1,0 +1,34 @@
+body{
+    background-color: #303841;
+}
+
+.hello-world h1{
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 50vh;
+    font-size: 5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    animation: bounce 1s linear;
+ 
+}
+
+@keyframes bounce{
+    20%{
+        transform: translateY(0);
+    }
+
+    30%{
+        transform:translateY(0) ;
+    }
+
+    50%{
+        transform: translateY(100%);
+    }
+     70%{
+        transform: translateY(100%);
+     }
+
+
+}
