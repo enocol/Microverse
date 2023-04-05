@@ -1,0 +1,22 @@
+.image {
+    align-self: center;
+    padding-block: 2%;
+}
+
+.image-holder {
+    background-color: blue;
+    
+}
+
+.container {
+    background-color: yellow;
+    font-family:'Times New Roman', Times, serif
+}
+.h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+
