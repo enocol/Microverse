@@ -1,16 +1,24 @@
-.image {
-    align-self: center;
-    padding-block: 2%;
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    width: auto;
 }
 
-.image-holder {
-    background-color: blue;
-    
+.image {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  height: 90vh;
 }
+
+
 
 .container {
-    background-color: yellow;
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
+    width: auto;
 }
 .h1{
     text-align: center;
@@ -19,4 +27,19 @@ p{
     text-align: center;
 }
 
+span ul li{
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    font-size: 25px;
+
+}
+
+.pbtn{
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size:30px;   
+}
 
